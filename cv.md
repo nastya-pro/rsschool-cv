@@ -5,7 +5,7 @@
 1. I want to study and understand JavaScript. My main goal is to find a good interesting job. I have little programming experience. But programmers do very hard work and are like magicians. I always carefully study new topics and tasks and ask clarifying questions if something is not clear. I enjoy learning new things.
 1. HTML5, CSS3, JavaScript, C
 1. Sample code
-```const xMax=1;
+``` const xMax=1;
 const xMin=0;
 const n=5;
 
